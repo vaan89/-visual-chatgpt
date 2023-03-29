@@ -1,4 +1,9 @@
-# Visual ChatGPT 
+# 微软官方版本chatgpt Visual ChatGPT 联系微信vaan89
+**我是一个35岁被迫创业的产品经理 之前服务于于腾讯 人民日报 搜狐 新浪 
+后来因为大家都知道的35岁魔咒 决定自己开公司 公司可以提供以下产品服务 
+人工智能应用、OpenAI开发、ChatGPT开发、AI绘画应用开发、聊天机器人、ai聊天软件、ai机器人、aichat、企业微信添加chatgpt、微信小程序、痘印小程序、APP开发、网站建设、网站托管、网站建设、域名注册、区块链行业方案、区块链应用、web3.0开发。
+
+我们提供可靠且创新性的人工智能应用，助您实现业务数字化转型。专注于OpenAI的研究和开发，为您提供最先进的技术解决方案。提供高效和个性化的ChatGPT开发服务，帮助企业和个人实现智能化服务。我们提供定制化的聊天机器人和ai聊天软件，满足不同行业和用户需求。提供微信小程序和企业微信中ChatGPT的添加服务，让您的客户获得更好的交互体验。专注于web3.0技术的研究和开发，提供可靠的区块链解决方案和应用程序，帮助客户进入数字资产时代。
 
 **Visual ChatGPT** connects ChatGPT and a series of Visual Foundation Models to enable **sending** and **receiving** images during chatting.
 
